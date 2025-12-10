@@ -1,0 +1,6 @@
+{
+  "server": {
+    "port": 3000,
+    "welcomeMessage": "Dressify Server Listening on Development Mode"
+  }
+}
